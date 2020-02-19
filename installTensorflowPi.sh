@@ -2,6 +2,7 @@
 # Install Tensorflow for Python 2.7 on Raspbian Buster
 # Information from:
 # https://www.pyimagesearch.com/2017/12/18/keras-deep-learning-raspberry-pi/
+# with minor changes
 
 # Let's start installing!
 
